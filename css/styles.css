@@ -42,21 +42,24 @@ body {
 .heading-1 {
   padding-top: 3rem;
   color: white;
+  font-size: 3rem;
   }
 .heading-2 {
   color: white;
+  font-size: 3rem;
 }
 .heading-3 {
   color: #fecd1a;
   margin-right: 18rem;
   margin-bottom: 0;
   padding-top: 3rem;
+  font-size: 3rem;
   /*
   padding-bottom: 0; */
 }
 .hackathon {
   font-family: "Anton", sans-serif;
-  font-size: 6rem;
+  font-size: 7.5rem;
   margin-top: 0;
   padding-top: 0;
   color: #fecd1a;
@@ -68,17 +71,20 @@ body {
   line-height: 0.7;
   margin: 0;
   color: white;
+  font-size: 3rem;
 }
 .section-3 {
   padding: 3rem;
   text-align: center;
 }
 .register {
-  margin-top: 1rem;
-  width: 20%;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  width: 35%;
   font-family: serif;
   padding: 3rem, 4rem;
-  height: 5rem;
+  height: 6rem;
+  font-size: 2rem;
 }
 .register:hover {
   background-color: #ffc85c;
@@ -86,22 +92,65 @@ body {
 .section-4 {
   text-align: center;
   color: #eeeeee;
+  font-family: serif;
 }
 .heading1-sec4 {
   color: #fecd1a;
-}
-p {
-  color: #9ad3bc;
+  font-size: 3rem;
+  margin-bottom: 1rem;
 }
 .heading2-sec4 {
-  color: #fff8c1;
+  color: #f8f1f1;
+  font-size: 3rem;
+  margin-bottom: 2rem;
+}
+p {
+  color: #aee6e6;
+  font-size: 1.5rem;
+  font-size: 2.5rem;
 }
 .heading3-sec4 {
-  color: #fff8c1;
+  color: #f8f1f1;
+  font-size: 3rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
 }
 .entry-fee {
   color: #fecd1a;
+  font-size: 3rem;
 }
-.footer{
+.queries {
   text-align: center;
+  font-family: serif;
+}
+.queries-h2 {
+  color: #eeeeee;
+  padding: 2rem 0 0 0;
+  font-size: 3rem;
+}
+.pramodbn {
+  margin-bottom: 0;
+  font-size: 3rem;
+  color: #aee6e6;
+}
+.phone-span {
+  color: #eeeeee;
+  font-size: 3rem;
+}
+.phone {
+  margin-bottom: 0;
+  color: #fff8c1;
+
+}
+.email-span {
+  color: #eeeeee;
+  font-size: 3rem;
+}
+.email {
+  color: #fff8c1;
+  font-size: 3rem;
+}
+.phone-p {
+  margin-bottom: 0;
+  font-size: 3rem;
 }
