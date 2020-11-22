@@ -1,0 +1,81 @@
+body {
+  background-image: url("file:///Users/adithyam/Desktop/web%20development/hackathon/images/bg.png");
+}
+.box{
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+}
+.atria-logo {
+  width: 13%;
+  margin-left: 0.8rem;
+  /* margin-top: 1rem;
+
+  padding-top: 0; */
+}
+.aws-logo {
+  width: 20%;
+  margin-left: 2rem;
+  /*
+  margin-top: 1rem; */
+}
+.code-logo {
+  width: 20%;
+  margin-left: 1rem;
+  /* margin-top: 0;
+   */
+
+}
+.rac-logo {
+  width: 23%;
+  /* margin-left: 0; */
+
+}
+.cse-logo {
+  width: 12%;
+  /* margin-left: 1rem;
+  margin-top: 1rem; */
+}
+.section-2 {
+  text-align: center;
+}
+.heading-1 {
+  padding-top: 1rem;
+  color: white;
+  }
+.heading-2 {
+  color: white;
+}
+.heading-3 {
+  color: #fecd1a;
+  margin-right: 18rem;
+  margin-bottom: 0;
+  /*
+  padding-bottom: 0; */
+}
+.hackathon {
+  font-family: "Anton", sans-serif;
+  font-size: 6rem;
+  margin-top: 0;
+  padding-top: 0;
+  color: #fecd1a;
+  line-height: 1;
+  margin-bottom: 0;
+}
+.date {
+  padding: 0;
+  line-height: 0.7;
+  margin: 0;
+  color: white;
+}
+.section-3 {
+  padding: 3rem;
+  text-align: center;
+}
+.register {
+  width: 20%;
+  font-family: serif;
+}
+.register:hover {
+  background-color: #ffc85c;
+}
