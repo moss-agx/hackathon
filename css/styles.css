@@ -83,3 +83,25 @@ body {
 .register:hover {
   background-color: #ffc85c;
 }
+.section-4 {
+  text-align: center;
+  color: #eeeeee;
+}
+.heading1-sec4 {
+  color: #fecd1a;
+}
+p {
+  color: #9ad3bc;
+}
+.heading2-sec4 {
+  color: #fff8c1;
+}
+.heading3-sec4 {
+  color: #fff8c1;
+}
+.entry-fee {
+  color: #fecd1a;
+}
+.footer{
+  text-align: center;
+}
