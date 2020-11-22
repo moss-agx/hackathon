@@ -40,7 +40,7 @@ body {
   text-align: center;
 }
 .heading-1 {
-  padding-top: 1rem;
+  padding-top: 3rem;
   color: white;
   }
 .heading-2 {
@@ -50,6 +50,7 @@ body {
   color: #fecd1a;
   margin-right: 18rem;
   margin-bottom: 0;
+  padding-top: 3rem;
   /*
   padding-bottom: 0; */
 }
@@ -73,8 +74,11 @@ body {
   text-align: center;
 }
 .register {
+  margin-top: 1rem;
   width: 20%;
   font-family: serif;
+  padding: 3rem, 4rem;
+  height: 5rem;
 }
 .register:hover {
   background-color: #ffc85c;
