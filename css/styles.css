@@ -1,11 +1,13 @@
 body {
   background-image: url("https://i.ibb.co/1bVFMHQ/bg.png");
 }
-.box{
+
+.box {
   display: flex;
   flex-flow: row nowrap;
   align-items: center;
 }
+
 .atria-logo {
   width: 13%;
   margin-left: 0.8rem;
@@ -13,41 +15,48 @@ body {
 
   padding-top: 0; */
 }
+
 .aws-logo {
   width: 20%;
   margin-left: 2rem;
   /*
   margin-top: 1rem; */
 }
+
 .code-logo {
   width: 20%;
   margin-left: 1rem;
+  background-color: white;
   /* margin-top: 0;
    */
-
 }
+
 .rac-logo {
   width: 23%;
   /* margin-left: 0; */
-
 }
+
 .cse-logo {
   width: 12%;
   /* margin-left: 1rem;
   margin-top: 1rem; */
 }
+
 .section-2 {
   text-align: center;
 }
+
 .heading-1 {
   padding-top: 3rem;
   color: white;
   font-size: 3rem;
-  }
+}
+
 .heading-2 {
   color: white;
   font-size: 3rem;
 }
+
 .heading-3 {
   color: #fecd1a;
   margin-right: 18rem;
@@ -57,6 +66,7 @@ body {
   /*
   padding-bottom: 0; */
 }
+
 .hackathon {
   font-family: "Anton", sans-serif;
   font-size: 7.5rem;
@@ -66,6 +76,7 @@ body {
   line-height: 1;
   margin-bottom: 0;
 }
+
 .date {
   padding: 0;
   line-height: 0.7;
@@ -73,10 +84,12 @@ body {
   color: white;
   font-size: 3rem;
 }
+
 .section-3 {
   padding: 3rem;
   text-align: center;
 }
+
 .register {
   margin-top: 3rem;
   margin-bottom: 3rem;
@@ -86,70 +99,123 @@ body {
   height: 6rem;
   font-size: 2rem;
 }
+
 .register:hover {
   background-color: #ffc85c;
 }
+
 .section-4 {
   text-align: center;
   color: #eeeeee;
   font-family: serif;
 }
+
 .heading1-sec4 {
   color: #fecd1a;
   font-size: 3rem;
   margin-bottom: 1rem;
 }
+
 .heading2-sec4 {
   color: #f8f1f1;
   font-size: 3rem;
   margin-bottom: 2rem;
 }
+
 p {
   color: #aee6e6;
   font-size: 1.5rem;
   font-size: 2.5rem;
 }
+
 .heading3-sec4 {
   color: #f8f1f1;
   font-size: 3rem;
   margin-top: 2rem;
   margin-bottom: 2rem;
 }
+
 .entry-fee {
   color: #fecd1a;
   font-size: 3rem;
 }
+
+.win {
+  color: #ebcfc4;
+}
+
+.co-ordinators {
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  /* font-size: 3rem; */
+}
+
+.coordinator-heading {
+  font-size: 3rem;
+}
+
+.student-coordinator {
+  color: #eeeeee;
+  padding: 0;
+  margin-bottom: 2.5rem;
+  /* font-size: 3rem; */
+}
+
+.faculty-coordinator {
+  color: #eeeeee;
+  padding: 0;
+  /* font-size: 3rem; */
+}
+
+.coordinator-para {
+  margin-bottom: 0;
+  color: #aee6e6;
+  font-size: 3rem;
+}
+
+.hemalatha-email {
+  color: #fff8c1;
+  font-style: 3rem;
+}
+
 .queries {
   text-align: center;
   font-family: serif;
 }
+
 .queries-h2 {
   color: #eeeeee;
   padding: 2rem 0 0 0;
   font-size: 3rem;
 }
+
 .pramodbn {
   margin-bottom: 0;
   font-size: 3rem;
   color: #aee6e6;
 }
+
 .phone-span {
   color: #eeeeee;
   font-size: 3rem;
 }
+
 .phone {
   margin-bottom: 0;
   color: #fff8c1;
-
 }
+
 .email-span {
   color: #eeeeee;
   font-size: 3rem;
 }
+
 .email {
   color: #fff8c1;
   font-size: 3rem;
 }
+
 .phone-p {
   margin-bottom: 0;
   font-size: 3rem;
