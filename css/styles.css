@@ -93,10 +93,8 @@ body {
 .register {
   margin-top: 3rem;
   margin-bottom: 3rem;
-  width: 35%;
   font-family: serif;
-  padding: 3rem, 4rem, 3rem, 4rem;
-  height: 6rem;
+  padding: 2.5rem 7rem 2.5rem 7rem;
   font-size: 2rem;
 }
 
@@ -176,9 +174,10 @@ p {
 
 .hemalatha-email {
   color: #fff8c1;
-  font-style: 3rem;
 }
-
+.hemalatha-email:hover {
+  color: #ffc85c;
+}
 .queries {
   text-align: center;
   font-family: serif;
@@ -186,7 +185,6 @@ p {
 
 .queries-h2 {
   color: #eeeeee;
-  padding: 2rem 0 0 0;
   font-size: 3rem;
 }
 
@@ -219,4 +217,57 @@ p {
 .phone-p {
   margin-bottom: 0;
   font-size: 3rem;
+}
+.mentors {
+  text-align: center;
+}
+.mentors-h2 {
+  font-size: 3rem;
+  color: #eee
+}
+.ashwini-pic {
+  width: 75%;
+  height: 19rem;
+  margin-bottom: 1rem;
+}
+.samarth-pic {
+  height: 19rem;
+  margin-bottom: 1rem;
+}
+.moinam-pic {
+  height: 19rem;
+  margin-bottom: 1rem;
+}
+.nikhil-pic {
+  height: 19rem;
+  margin-bottom: 1rem;
+}
+.set-1 {
+  margin: 3rem 0 5rem 0;
+}
+.set-2 {
+  margin: 3rem 0 5rem 0;
+}
+.organizers {
+  text-align: center;
+}
+.cse-hod-pic {
+  height: 19rem;
+  margin-bottom: 1rem;
+}
+.hemalatha-pic {
+  width: 60%;
+  height: 19rem;
+  margin-bottom: 1rem;
+}
+.organizers-h2 {
+  font-size: 3rem;
+  color: #eee
+}
+.pramod-pic {
+  width: 70%;
+  height: 19rem;
+}
+.adithya-pic {
+  height: 19rem;
 }
