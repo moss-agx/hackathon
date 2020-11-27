@@ -10,7 +10,7 @@ body {
 
 .atria-logo {
   width: 13%;
-  margin-left: 0.8rem;
+  margin-left: 1rem;
   /* margin-top: 1rem;
 
   padding-top: 0; */
@@ -25,7 +25,7 @@ body {
 
 .code-logo {
   width: 20%;
-  margin-left: 1rem;
+  margin-left: 2rem;
   background-color: white;
   /* margin-top: 0;
    */
@@ -33,13 +33,21 @@ body {
 
 .rac-logo {
   width: 23%;
+  margin-left: 1rem;
+  background-color: #eee;
   /* margin-left: 0; */
 }
 
 .cse-logo {
   width: 12%;
+  margin-left: 1.1rem;
   /* margin-left: 1rem;
   margin-top: 1rem; */
+}
+.ieee-logo {
+  width: 25%;
+  margin-top: 2rem;
+  background-color: #eee;
 }
 
 .section-2 {
